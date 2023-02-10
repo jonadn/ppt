@@ -1,8 +1,8 @@
 ---
 marp: false
-theme: gaia
+theme: uncover
 class: invert
-backgroundColor: black
+# // backgroundColor: black
  * @auto-scaling true
 ---
 
@@ -13,6 +13,18 @@ p{
   padding-top: 50px;
   font-weight: 700;
 }
+
+root{
+  background-color: red;
+}
+
+/* @theme base */
+
+section {
+  background-color: #fff;
+  color: #333;
+}
+
 </style>
 
 
